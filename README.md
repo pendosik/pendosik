@@ -9,7 +9,7 @@
 
 
 <h2>:rocket: Things I code with</h2>
-<p align='center'>
+<p align='left'>
   <img src="https://github.com/pendosik/pendosik/blob/main/Gif/JavaScript.gif" height="80" />
   <img src="https://github.com/pendosik/pendosik/blob/main/Gif/React.gif" height="80" />
   <img src="https://github.com/pendosik/pendosik/blob/main/Gif/Bootstrap.gif" height="80" />

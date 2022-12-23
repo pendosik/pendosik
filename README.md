@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Igor, Frontend Developer :computer:</h2>
+<h2>:hand:Hi there, I'm Igor, Frontend Developer :computer:</h2>
   <img height="200" src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=790b76117a3c4c0c151edea5f54e062b2b471d9718f94ee4&rid=giphy.gif&ct=s?raw=true">
 <h2>:rocket: Things I code with</h2>
   <p align='left'>

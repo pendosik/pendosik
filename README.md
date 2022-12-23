@@ -10,12 +10,12 @@
 
 <h2>:rocket: Things I code with</h2>
 <p align='center'>
-  <img src="https://github.com/pendosik/pendosik/blob/main/Gif/JavaScript.gif" height="40" />
-  <img src="https://github.com/pendosik/pendosik/blob/main/Gif/React.gif" height="40" />
-  <img src="https://github.com/pendosik/pendosik/blob/main/Gif/Bootstrap.gif" height="40" />
-  <img src="https://github.com/pendosik/pendosik/blob/main/Gif/Git.gif" height="40" />
-  <img src="https://github.com/pendosik/pendosik/blob/main/Gif/CSS.gif" height="40" />
-  <img src="https://github.com/pendosik/pendosik/blob/main/Gif/HTML.gif" height="40" />
+  <img src="https://github.com/pendosik/pendosik/blob/main/Gif/JavaScript.gif" height="80" />
+  <img src="https://github.com/pendosik/pendosik/blob/main/Gif/React.gif" height="80" />
+  <img src="https://github.com/pendosik/pendosik/blob/main/Gif/Bootstrap.gif" height="80" />
+  <img src="https://github.com/pendosik/pendosik/blob/main/Gif/Git.gif" height="80" />
+  <img src="https://github.com/pendosik/pendosik/blob/main/Gif/CSS.gif" height="80" />
+  <img src="https://github.com/pendosik/pendosik/blob/main/Gif/HTML.gif" height="80" />
 </p>
 
 

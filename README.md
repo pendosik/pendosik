@@ -11,8 +11,8 @@
   </p>
 <h2>:speech_balloon: Contact me</h2>
 
-  :airplane: <a href="https://t.me/pendocik">Chat with me on Telegram</a>
+  #### :airplane:Chat with me on <a href="https://t.me/pendocik">Telegram</a>
 
-  :e-mail: <a href="mailto:pendociik@gmail.com">Send an e-mail</a>
+  #### :e-mail:Send an <a href="mailto:pendociik@gmail.com">e-mail</a>
 
-  :alien: <a href="https://www.linkedin.com/in/igor-domoradov-94a259163/">Checkout my LinkedIn</a>
+  #### :alien:Checkout my  <a href="https://www.linkedin.com/in/igor-domoradov-94a259163/">LinkedIn</a>

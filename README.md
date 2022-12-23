@@ -1,5 +1,5 @@
 <h2>
-  :hand:Hi there, I'm Igor, Frontend Developer :computer:
+  :hand: Hi there, I'm Igor, Frontend Developer :computer:
 </h2>
   <img src="https://github.com/pendosik/pendosik/blob/main/Gif/GitHub.gif"       alt="Githubicon" height="200">
 <h2>

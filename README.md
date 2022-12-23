@@ -1,13 +1,5 @@
 <h2>Hi there, I'm Igor, Frontend Developer :computer:</h2>
-
 <img height="200" src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=790b76117a3c4c0c151edea5f54e062b2b471d9718f94ee4&rid=giphy.gif&ct=s?raw=true">
-
-
-
-<a href="https://reactjs.org/"><img height="30" src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp.gif?raw=true"></a>&nbsp;&nbsp;
-
-
-
 <h2>:rocket: Things I code with</h2>
 <p align='left'>
   <img src="https://github.com/pendosik/pendosik/blob/main/Gif/JavaScript.gif" height="80" />
@@ -17,11 +9,7 @@
   <img src="https://github.com/pendosik/pendosik/blob/main/Gif/CSS.gif" height="80" />
   <img src="https://github.com/pendosik/pendosik/blob/main/Gif/HTML.gif" height="80" />
 </p>
-
-
-
-
-## Contact me :speech_balloon:
+<h2>:speech_balloon: Contact me</h2>
 
 :airplane: <a href="https://t.me/pendocik">Chat with me on Telegram</a>
 

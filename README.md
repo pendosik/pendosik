@@ -13,6 +13,7 @@
     <img src="https://github.com/pendosik/pendosik/blob/main/Gif/CSS.gif"        alt="CSS"        height="80">
     <img src="https://github.com/pendosik/pendosik/blob/main/Gif/HTML.gif"       alt="HTML"       height="80">
   </p>
+  (JavaScript,React,Bootstrap,Git,CSS,HTML)
 <h2>
   :speech_balloon: Contact me
 </h2>

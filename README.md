@@ -7,15 +7,15 @@
 </h2>
   <p align='left'>
     <img src="https://github.com/pendosik/pendosik/blob/main/Gif/JavaScript.gif" alt="JavaScript" height="80">
-   /*
+    <!---
     <img src="https://github.com/pendosik/pendosik/blob/main/Gif/React.gif"      alt="React"      height="80">
-    <img src="https://github.com/pendosik/pendosik/blob/main/Gif/Bootstrap.gif"  alt="Bootstrap"  height="80">
-  */
+    <img src="https://github.com/pendosik/pendosik/blob/main/Gif/Bootstrap.gif"  alt="Bootstrap"  height="80"> 
+    --->
     <img src="https://github.com/pendosik/pendosik/blob/main/Gif/Git.gif"        alt="Git"        height="80">
     <img src="https://github.com/pendosik/pendosik/blob/main/Gif/CSS.gif"        alt="CSS"        height="80">
     <img src="https://github.com/pendosik/pendosik/blob/main/Gif/HTML.gif"       alt="HTML"       height="80">
   </p>
-  (JavaScript,React,Bootstrap,Git,CSS,HTML)
+  (JavaScript,Git,CSS,HTML)
 <h2>
   :speech_balloon: Contact me
 </h2>
